@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salvadrone
+- 👋 Hi, I’m Jose Salvador
 - 👀 I’m interested in Linux, Vue.js, JavaScript, css and html
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on front-end projects
